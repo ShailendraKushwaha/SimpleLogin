@@ -1,0 +1,5 @@
+Task-
+Make a music app demo as shown in demo video. You have to make two pages - one for searching and other for detailed view. Please make sure to use MVVM architecture.
+You have to use this api to search the music albums- https://itunes.apple.com/search?term=heli
+
+Here term=heli 'heli' is text to be searched
